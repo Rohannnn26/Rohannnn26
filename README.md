@@ -51,7 +51,7 @@ Here are some of the technologies and tools I work with:
 I'm always open to collaborating on interesting projects or discussing AI/ML. Feel free to reach out to me via:
 
 - **Email:** [rohan26gupta2005@gmail.com]  
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rohan-gupta-457a72207/))  
+- **LinkedIn:** [https://www.linkedin.com/in/rohan-gupta-457a72207/]
 ---
 
 ## 🙏 Thank You!
