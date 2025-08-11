@@ -10,19 +10,6 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 
 - **Name:** Rohan  
 - **GitHub Profile:** [Rohannnn26](https://github.com/Rohannnn26)  
-- **Interests:**  
-  - Artificial Intelligence (AI)  
-  - Machine Learning (ML)  
-  - Data Science  
-  - Deep Learning  
-  - Natural Language Processing (NLP)  
-  - Computer Vision  
-- **Goals:**  
-  - To contribute to cutting-edge AI/ML projects.  
-  - To continuously learn and grow in the field of AI/ML.  
-  - To build impactful and scalable solutions using AI/ML technologies.  
-
----
 
 ## 🛠️ Technologies & Tools
 
